@@ -6113,168 +6113,8 @@
       ],
       "A_0_BoatShop": [
         {
-          "tradeable-code": "BP_BCUUpgradeService",
-          "base-purchase-price": "2330",
-          "base-sell-price": "1042",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "BP_PlasticSurgeryService",
-          "base-purchase-price": "29952",
-          "base-sell-price": "10417",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "PainKillers_03",
-          "base-purchase-price": "1864",
-          "base-sell-price": "1000",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "PotassiumIodide_Pills_03",
-          "base-purchase-price": "666",
-          "base-sell-price": "208",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "PotassiumIodide_Pills_02",
-          "base-purchase-price": "466",
-          "base-sell-price": "146",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Painkillers_02",
-          "base-purchase-price": "2396",
-          "base-sell-price": "750",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antiparasitics_03",
-          "base-purchase-price": "599",
-          "base-sell-price": "188",
-          "delta-price": "-1.0",
-          "can-be-purchased": "true",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antiparasitics_02",
-          "base-purchase-price": "399",
-          "base-sell-price": "125",
-          "delta-price": "-1.0",
-          "can-be-purchased": "true",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antibiotics_03",
-          "base-purchase-price": "1664",
-          "base-sell-price": "1250",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antibiotics_02",
-          "base-purchase-price": "1265",
-          "base-sell-price": "875",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antiparasitics_01",
-          "base-purchase-price": "200",
-          "base-sell-price": "63",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Antibiotics_01",
-          "base-purchase-price": "932",
-          "base-sell-price": "500",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Adrenaline_Shot",
-          "base-purchase-price": "798",
-          "base-sell-price": "250",
-          "delta-price": "-1.0",
-          "can-be-purchased": "false",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Pressure_Dressing",
-          "base-purchase-price": "666",
-          "base-sell-price": "208",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Hemostatic_Dressing",
-          "base-purchase-price": "666",
-          "base-sell-price": "208",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Emergency_bandage_Big",
-          "base-purchase-price": "1331",
-          "base-sell-price": "417",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Emergency_bandage",
-          "base-purchase-price": "333",
-          "base-sell-price": "104",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Tourniquet",
-          "base-purchase-price": "1331",
-          "base-sell-price": "417",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Apple",
-          "base-purchase-price": "27",
-          "base-sell-price": "4",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
-          "tradeable-code": "Painkillers_01",
-          "base-purchase-price": "998",
-          "base-sell-price": "500",
-          "delta-price": "-1.0",
-          "can-be-purchased": "default",
-          "required-famepoints": "0"
-        },
-        {
           "tradeable-code": "Diving_Mask",
-          "base-purchase-price": "146",
+          "base-purchase-price": "262",
           "base-sell-price": "73",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6282,7 +6122,7 @@
         },
         {
           "tradeable-code": "Diving_Mask_With_Breathing_Tube",
-          "base-purchase-price": "219",
+          "base-purchase-price": "393",
           "base-sell-price": "110",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6290,7 +6130,7 @@
         },
         {
           "tradeable-code": "Breathing_Tube_01",
-          "base-purchase-price": "73",
+          "base-purchase-price": "131",
           "base-sell-price": "37",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6298,7 +6138,7 @@
         },
         {
           "tradeable-code": "ImprovisedSmallPaddle",
-          "base-purchase-price": "50",
+          "base-purchase-price": "89",
           "base-sell-price": "19",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6306,7 +6146,7 @@
         },
         {
           "tradeable-code": "Long_Paddle",
-          "base-purchase-price": "333",
+          "base-purchase-price": "595",
           "base-sell-price": "125",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6314,7 +6154,7 @@
         },
         {
           "tradeable-code": "Short_Paddle_A",
-          "base-purchase-price": "666",
+          "base-purchase-price": "1190",
           "base-sell-price": "208",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6322,7 +6162,7 @@
         },
         {
           "tradeable-code": "Short_Paddle_B",
-          "base-purchase-price": "666",
+          "base-purchase-price": "1190",
           "base-sell-price": "208",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6330,7 +6170,7 @@
         },
         {
           "tradeable-code": "FishingBait_Bread",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6338,7 +6178,7 @@
         },
         {
           "tradeable-code": "FishingFloater",
-          "base-purchase-price": "34",
+          "base-purchase-price": "60",
           "base-sell-price": "13",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6346,7 +6186,7 @@
         },
         {
           "tradeable-code": "FishingFloaterPack1",
-          "base-purchase-price": "333",
+          "base-purchase-price": "595",
           "base-sell-price": "125",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6354,7 +6194,7 @@
         },
         {
           "tradeable-code": "FishingFloaterPack2",
-          "base-purchase-price": "499",
+          "base-purchase-price": "893",
           "base-sell-price": "188",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6362,7 +6202,7 @@
         },
         {
           "tradeable-code": "FishingHookPack1",
-          "base-purchase-price": "200",
+          "base-purchase-price": "357",
           "base-sell-price": "75",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6370,7 +6210,7 @@
         },
         {
           "tradeable-code": "FishingHookPack2",
-          "base-purchase-price": "366",
+          "base-purchase-price": "655",
           "base-sell-price": "138",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6378,7 +6218,7 @@
         },
         {
           "tradeable-code": "FishingHookPack3",
-          "base-purchase-price": "453",
+          "base-purchase-price": "809",
           "base-sell-price": "170",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6386,7 +6226,7 @@
         },
         {
           "tradeable-code": "FishingHookPack4",
-          "base-purchase-price": "466",
+          "base-purchase-price": "833",
           "base-sell-price": "175",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6394,7 +6234,7 @@
         },
         {
           "tradeable-code": "FishingLine_1",
-          "base-purchase-price": "133",
+          "base-purchase-price": "238",
           "base-sell-price": "50",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6402,7 +6242,7 @@
         },
         {
           "tradeable-code": "FishingLine_2",
-          "base-purchase-price": "200",
+          "base-purchase-price": "357",
           "base-sell-price": "75",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6410,7 +6250,7 @@
         },
         {
           "tradeable-code": "FishingLine_3",
-          "base-purchase-price": "266",
+          "base-purchase-price": "476",
           "base-sell-price": "100",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6418,7 +6258,7 @@
         },
         {
           "tradeable-code": "FishingLine_4",
-          "base-purchase-price": "533",
+          "base-purchase-price": "952",
           "base-sell-price": "200",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6426,7 +6266,7 @@
         },
         {
           "tradeable-code": "FishingLinePiece_1",
-          "base-purchase-price": "14",
+          "base-purchase-price": "24",
           "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6434,7 +6274,7 @@
         },
         {
           "tradeable-code": "FishingLinePiece_2",
-          "base-purchase-price": "20",
+          "base-purchase-price": "36",
           "base-sell-price": "8",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6442,7 +6282,7 @@
         },
         {
           "tradeable-code": "FishingLinePiece_3",
-          "base-purchase-price": "27",
+          "base-purchase-price": "48",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6450,7 +6290,7 @@
         },
         {
           "tradeable-code": "FishingLinePiece_4",
-          "base-purchase-price": "53",
+          "base-purchase-price": "95",
           "base-sell-price": "20",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6458,7 +6298,7 @@
         },
         {
           "tradeable-code": "FishingReel",
-          "base-purchase-price": "533",
+          "base-purchase-price": "952",
           "base-sell-price": "200",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6466,7 +6306,7 @@
         },
         {
           "tradeable-code": "FishingReelPro",
-          "base-purchase-price": "798",
+          "base-purchase-price": "1428",
           "base-sell-price": "300",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6474,7 +6314,7 @@
         },
         {
           "tradeable-code": "FishingRod",
-          "base-purchase-price": "1331",
+          "base-purchase-price": "2380",
           "base-sell-price": "500",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6482,7 +6322,7 @@
         },
         {
           "tradeable-code": "FishingRod_A",
-          "base-purchase-price": "1331",
+          "base-purchase-price": "2380",
           "base-sell-price": "500",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6490,7 +6330,7 @@
         },
         {
           "tradeable-code": "FishingRod_B",
-          "base-purchase-price": "1331",
+          "base-purchase-price": "2380",
           "base-sell-price": "500",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6498,7 +6338,7 @@
         },
         {
           "tradeable-code": "Improvised_FishingLine",
-          "base-purchase-price": "6",
+          "base-purchase-price": "12",
           "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6506,7 +6346,7 @@
         },
         {
           "tradeable-code": "ImprovisedFishingReel",
-          "base-purchase-price": "100",
+          "base-purchase-price": "179",
           "base-sell-price": "38",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6514,7 +6354,7 @@
         },
         {
           "tradeable-code": "ImprovisedFishingRod",
-          "base-purchase-price": "266",
+          "base-purchase-price": "476",
           "base-sell-price": "100",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6522,7 +6362,7 @@
         },
         {
           "tradeable-code": "PremiumBoiliesPack",
-          "base-purchase-price": "30",
+          "base-purchase-price": "54",
           "base-sell-price": "11",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6530,7 +6370,7 @@
         },
         {
           "tradeable-code": "FishingBait_Bleak",
-          "base-purchase-price": "6",
+          "base-purchase-price": "12",
           "base-sell-price": "3",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6538,7 +6378,7 @@
         },
         {
           "tradeable-code": "FishingBait_BoiliesPrm1",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6546,7 +6386,7 @@
         },
         {
           "tradeable-code": "FishingBait_Cheese",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6554,7 +6394,7 @@
         },
         {
           "tradeable-code": "FishingBait_Corn",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6562,7 +6402,7 @@
         },
         {
           "tradeable-code": "FishingBait_Cricket",
-          "base-purchase-price": "2",
+          "base-purchase-price": "4",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6570,7 +6410,7 @@
         },
         {
           "tradeable-code": "FishingBait_Grasshopper",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6578,7 +6418,7 @@
         },
         {
           "tradeable-code": "FishingBait_Meat",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6586,7 +6426,7 @@
         },
         {
           "tradeable-code": "FishingBait_RedWorm",
-          "base-purchase-price": "2",
+          "base-purchase-price": "5",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6594,7 +6434,7 @@
         },
         {
           "tradeable-code": "FishingBait_Sardine",
-          "base-purchase-price": "2",
+          "base-purchase-price": "5",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6602,7 +6442,7 @@
         },
         {
           "tradeable-code": "FishingBait_Worm",
-          "base-purchase-price": "2",
+          "base-purchase-price": "5",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6610,7 +6450,7 @@
         },
         {
           "tradeable-code": "FishingFloater1",
-          "base-purchase-price": "50",
+          "base-purchase-price": "89",
           "base-sell-price": "19",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6618,7 +6458,7 @@
         },
         {
           "tradeable-code": "FishingHook1",
-          "base-purchase-price": "37",
+          "base-purchase-price": "65",
           "base-sell-price": "14",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6626,7 +6466,7 @@
         },
         {
           "tradeable-code": "FishingHook2",
-          "base-purchase-price": "43",
+          "base-purchase-price": "77",
           "base-sell-price": "16",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6634,7 +6474,7 @@
         },
         {
           "tradeable-code": "FishingHook3",
-          "base-purchase-price": "50",
+          "base-purchase-price": "89",
           "base-sell-price": "19",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6642,7 +6482,7 @@
         },
         {
           "tradeable-code": "FishingHook4",
-          "base-purchase-price": "24",
+          "base-purchase-price": "42",
           "base-sell-price": "9",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6650,7 +6490,7 @@
         },
         {
           "tradeable-code": "ImprovisedFishingFloater",
-          "base-purchase-price": "14",
+          "base-purchase-price": "24",
           "base-sell-price": "5",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6658,7 +6498,7 @@
         },
         {
           "tradeable-code": "ImprovisedFishingHook",
-          "base-purchase-price": "4",
+          "base-purchase-price": "6",
           "base-sell-price": "1",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6666,7 +6506,7 @@
         },
         {
           "tradeable-code": "Fish_Amur",
-          "base-purchase-price": "166",
+          "base-purchase-price": "298",
           "base-sell-price": "26",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6674,7 +6514,7 @@
         },
         {
           "tradeable-code": "Fish_Bass",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6682,7 +6522,7 @@
         },
         {
           "tradeable-code": "Fish_Bleak",
-          "base-purchase-price": "14",
+          "base-purchase-price": "24",
           "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6690,7 +6530,7 @@
         },
         {
           "tradeable-code": "Fish_Carp",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6698,7 +6538,7 @@
         },
         {
           "tradeable-code": "Fish_Catfish",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6706,7 +6546,7 @@
         },
         {
           "tradeable-code": "Fish_Chub",
-          "base-purchase-price": "14",
+          "base-purchase-price": "24",
           "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6714,7 +6554,7 @@
         },
         {
           "tradeable-code": "Fish_CrucianCarp",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6722,7 +6562,7 @@
         },
         {
           "tradeable-code": "Fish_Dentex",
-          "base-purchase-price": "200",
+          "base-purchase-price": "357",
           "base-sell-price": "31",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6730,7 +6570,7 @@
         },
         {
           "tradeable-code": "Fish_Orata",
-          "base-purchase-price": "133",
+          "base-purchase-price": "238",
           "base-sell-price": "21",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6738,7 +6578,7 @@
         },
         {
           "tradeable-code": "Fish_Pike",
-          "base-purchase-price": "100",
+          "base-purchase-price": "179",
           "base-sell-price": "16",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6746,7 +6586,7 @@
         },
         {
           "tradeable-code": "Fish_PrussianCarp",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6754,7 +6594,7 @@
         },
         {
           "tradeable-code": "Fish_Ruffe",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "10",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6762,7 +6602,7 @@
         },
         {
           "tradeable-code": "Fish_Sardine",
-          "base-purchase-price": "14",
+          "base-purchase-price": "24",
           "base-sell-price": "2",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6770,7 +6610,7 @@
         },
         {
           "tradeable-code": "Fish_Tuna",
-          "base-purchase-price": "133",
+          "base-purchase-price": "238",
           "base-sell-price": "21",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6778,7 +6618,7 @@
         },
         {
           "tradeable-code": "Grasshopper",
-          "base-purchase-price": "66",
+          "base-purchase-price": "119",
           "base-sell-price": "25",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6786,7 +6626,7 @@
         },
         {
           "tradeable-code": "BPC_Barba",
-          "base-purchase-price": "7322",
+          "base-purchase-price": "13090",
           "base-sell-price": "2292",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6794,7 +6634,7 @@
         },
         {
           "tradeable-code": "BPC_SUP",
-          "base-purchase-price": "1098",
+          "base-purchase-price": "1964",
           "base-sell-price": "344",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6802,7 +6642,7 @@
         },
         {
           "tradeable-code": "Small_Vehicle_StorageRack",
-          "base-purchase-price": "998",
+          "base-purchase-price": "1785",
           "base-sell-price": "313",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
@@ -6810,7 +6650,7 @@
         },
         {
           "tradeable-code": "Medium_Vehicle_StorageRack",
-          "base-purchase-price": "1198",
+          "base-purchase-price": "2142",
           "base-sell-price": "375",
           "delta-price": "-1.0",
           "can-be-purchased": "default",
